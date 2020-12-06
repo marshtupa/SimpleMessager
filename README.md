@@ -17,7 +17,7 @@ This project used the Firebase cloud service.
 
 ## 🐣 You can launch your own app
 
-1. In terminal: git clone https://github.com/dmitrydnl/SimpleMessenger.git
+1. In terminal: git clone git@github.com:marshtupa/SimpleMessager.git
 2. Open project folder with XCode
 3. [Add Firebase to project](https://firebase.google.com/docs/ios/setup)
 4. Select device (Ex. your iPhone) or virtual device
